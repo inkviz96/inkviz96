@@ -1,18 +1,12 @@
 ## Hi there 👋 I'm a Full-Stack developer
 
-<a href="https://www.youtube.com/c/DjangoSchool">
+<a href="https://www.youtube.com/c/UCyA9LrQ43U9wRshQmKkAgHg">
   <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="https://t.me/DJWOMS">
+<a href="https://t.me/Inkviz577">
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
 </a>
-<a href="https://discord.gg/v36E3cWx">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/MikeOmelchenko">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/michael-omelchenko-100453156/">
+<a href="https://www.linkedin.cn/in/%D1%81%D0%B5%D0%BC%D1%91%D0%BD-%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-874419218/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -20,7 +14,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/inkviz96/inkviz96/blob/main/code.gif?raw=true" width="500" height="320" />
 
 **Back-end**
 
@@ -54,8 +48,8 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=inkviz96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inkviz96&layout=compact&count_private=true&theme=gruvbox)
+![inkviz96 github stats](https://github-readme-stats.vercel.app/api?username=inkviz96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![inkviz96 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inkviz96&layout=compact&count_private=true&theme=gruvbox)
 
 <!--
 **inkviz96/inkviz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
