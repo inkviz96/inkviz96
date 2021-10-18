@@ -11,7 +11,6 @@
 </a>
 
 </br>
-[![GPBHack](https://github-readme-stats.vercel.app/api/pin/?username=inkviz96&repo=GPBHack)](https://github.com/inkviz96/GPBHack)
 
 ## Technology stack
 
