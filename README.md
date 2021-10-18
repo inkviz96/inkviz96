@@ -11,7 +11,7 @@
 </a>
 
 </br>
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/inkviz96/GPBHack)
+[![GPBHack](https://github-readme-stats.vercel.app/api/pin/?username=inkviz96&repo=GPBHack)](https://github.com/inkviz96/GPBHack)
 
 ## Technology stack
 
