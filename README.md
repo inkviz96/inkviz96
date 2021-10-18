@@ -35,6 +35,7 @@
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-FCA121?style=flat-square&logo=Rabbitmq)
 
 **Tools**
 
