@@ -14,7 +14,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://github.com/inkviz96/inkviz96/blob/main/code.gif?raw=true" width="500" height="320" />
+[image](https://user-images.githubusercontent.com/39240102/137738688-9247cdd0-4911-4d0a-a5fd-7ec2eaf2e81f.png)
 
 **Back-end**
 
