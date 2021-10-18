@@ -14,7 +14,7 @@
 
 ## Technology stack
 
-<img align="right" alt="jpg" src="https://github.com/inkviz96/inkviz96/blob/main/code.jpg?raw=true" width="500" height="320" />
+<img align="right" alt="jpg" src="https://github.com/inkviz96/inkviz96/blob/main/python.jpg?raw=true" width="500" height="320" />
 
 **Back-end**
 
