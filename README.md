@@ -12,12 +12,6 @@
 
 </br>
 
-<!-- Pinned Repositories -- >
-
-<a href="https://github.com/inkviz96/GPBHack">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=inkviz96&repo=GPBHack&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
 ## Technology stack
 
 <img align="right" alt="jpg" src="https://github.com/inkviz96/inkviz96/blob/main/python.jpg?raw=true" width="500" height="320" />
