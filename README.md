@@ -25,6 +25,7 @@
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Dramatiq](https://img.shields.io/badge/-Dramatiq-%2300C7B7?style=flat-square&logo=Dramatiq)
+![Pydantic](https://img.shields.io/badge/-Pydantic-%2300C7B7?style=flat-square&logo=Pydantic)
 
 **Databases**
 
