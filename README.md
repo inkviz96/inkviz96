@@ -40,6 +40,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-FCA121?style=flat-square&logo=Ansible)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=AWS)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
