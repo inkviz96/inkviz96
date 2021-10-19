@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a Backend developer
 
-<a href="https://www.youtube.com/c/UCyA9LrQ43U9wRshQmKkAgHg">
+<a href="https://www.youtube.com/channel/UCyA9LrQ43U9wRshQmKkAgHg">
   <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://t.me/Inkviz577">
