@@ -50,6 +50,8 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inkviz96)](https://git.io/streak-stats)
+
 ![inkviz96 github stats](https://github-readme-stats.vercel.app/api?username=inkviz96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![inkviz96 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inkviz96&layout=compact&count_private=true&theme=gruvbox)
 
