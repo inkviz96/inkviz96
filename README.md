@@ -47,13 +47,14 @@
 **Learning**
 
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
+![Bash](https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=bash)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inkviz96&theme=dark)](https://git.io/streak-stats)
 
 ![inkviz96 github stats](https://github-readme-stats.vercel.app/api?username=inkviz96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![inkviz96 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inkviz96&layout=compact&count_private=true&langs_count=10&theme=tokyonight)
+![inkviz96 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inkviz96&layout=compact&count_private=true&langs_count=8&theme=tokyonight)
 
 <!--
 **inkviz96/inkviz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
