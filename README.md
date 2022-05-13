@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm a Backend developer
+![](https://komarev.com/ghpvc/?username=inkviz96&color=green)
 
 <a href="https://www.youtube.com/channel/UCyA9LrQ43U9wRshQmKkAgHg">
   <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
