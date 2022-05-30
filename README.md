@@ -54,7 +54,7 @@
 
 ![inkviz96 github stats](https://github-readme-stats.vercel.app/api?username=inkviz96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![inkviz96 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inkviz96&layout=compact&count_private=true&langs_count=8&theme=tokyonight)
-[https://github-readme-stats.vercel.app/api/wakatime?username=inkviz96](https://github-readme-stats.vercel.app/api/wakatime?username=inkviz96)
+![inkviz96 wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=inkviz96)
 <!--
 **inkviz96/inkviz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
