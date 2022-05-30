@@ -49,12 +49,13 @@
 ![Bash](https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=bash)
 
 ## 𝗦𝘁𝗮𝘁𝘀
+[![wakatime](https://wakatime.com/badge/user/eda502a3-2dbd-43e0-8c62-8c138fdb89f1.svg)](https://wakatime.com/@eda502a3-2dbd-43e0-8c62-8c138fdb89f1)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inkviz96&theme=dark)](https://git.io/streak-stats)
 
 ![inkviz96 github stats](https://github-readme-stats.vercel.app/api?username=inkviz96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![inkviz96 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inkviz96&layout=compact&count_private=true&langs_count=8&theme=tokyonight)
-[![wakatime](https://wakatime.com/badge/user/eda502a3-2dbd-43e0-8c62-8c138fdb89f1.svg)](https://wakatime.com/@eda502a3-2dbd-43e0-8c62-8c138fdb89f1)
 [![inkviz96 wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=inkviz96)](https://github-readme-stats.vercel.app/api/wakatime?username=inkviz96)
 <!--
 **inkviz96/inkviz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
